@@ -20,5 +20,6 @@ if(randomnumber>random2){
 else if(random2>randomnumber){
     document.querySelector("h1").innerHTML = "Player 2 wins";
 }
+//  this is used to generate and set attribute in a html file
 
 
